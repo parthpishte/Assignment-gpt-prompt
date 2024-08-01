@@ -1,0 +1,1 @@
+I will provide you with the text of my resume. Please parse the content and structure it into a JSON format 
